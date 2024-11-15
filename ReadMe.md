@@ -1,8 +1,6 @@
 # Introduction
 The following is a proof of concept or initial idea template for creating a DXL extension to be embedded directly into IBM's Rational DOORS utility which will allow for quickly parsing markdown and either editing or creating new modules. 
 
-`- Coding can be done inside `
-
 ### 1. Process a markdown file. 
 The utility must be able to parsing through a markdown file to find relevant fields. 
 
